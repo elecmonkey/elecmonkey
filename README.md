@@ -7,5 +7,5 @@ Frontend engineer passionate about architecture and the JavaScript tooling ecosy
 博客：[Elecmonkey的小花园](https://www.elecmonkey.com)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elecmonkey&layout=pie&hide=html,css&card_width=380" />
+  <img src="https://github-stat.edev.uno/card/elecmonkey" />
 </div>
