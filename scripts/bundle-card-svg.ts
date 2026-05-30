@@ -35,13 +35,8 @@ function attrsFromImage(rawAttrs: string): SvgAttrs {
 async function main(): Promise<void> {
   let card = await readFile(sourcePath, "utf8");
 
-  const icon = await readFile(path.join(assets, "icon.png"));
-  card = card.replace(
-    /<image href="\.\/icon\.png"([^>]*)\/>/,
-    `<image href="data:image/png;base64,${icon.toString("base64")}"$1/>`,
-  );
-
   const svgFiles = [
+    "loop_contour_trace_smooth_sm.svg",
     "typescript-plain.svg",
     "rust-original.svg",
     "go-original-wordmark.svg",
