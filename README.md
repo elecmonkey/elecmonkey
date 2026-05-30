@@ -7,5 +7,5 @@ Frontend engineer passionate about architecture and the JavaScript tooling ecosy
 博客：[Elecmonkey的小花园](https://www.elecmonkey.com)
 
 <div>
-  <img src="https://github-stat.edev.uno/card/elecmonkey" />
+  <img src="./assets/card-full.svg" alt="Elecmonkey - TypeScript Rust Go Developer" />
 </div>
